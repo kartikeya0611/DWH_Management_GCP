@@ -1,4 +1,4 @@
-# GCP_DWH_Management
+# GCP_Datawarehouse_Management
 
 # Tech Stack
 1. Google Cloud
