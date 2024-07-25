@@ -1,4 +1,4 @@
-# Near_Real_Time_DWH_Management
+# GCP_DWH_Management
 
 # Tech Stack
 1. Google Cloud
